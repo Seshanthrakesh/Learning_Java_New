@@ -1,7 +1,7 @@
 //Question 13 Compare
 package advanced;
 import java.util.ArrayList;
-class Swap2ArrayList {
+class CC12_Swap2ArrayList {
 	public static void main(String[] args) {
 		 ArrayList<String> al1= new ArrayList<String>();
 		    al1.add("Maruthi");

@@ -2,7 +2,7 @@ package advanced;
 import java.util.ArrayList;
 import java.util.List;
 
-public class C11_ListToArray {
+public class CC11_ListToArray {
     public static void main(String[] args) {
     	
         // Create a list

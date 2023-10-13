@@ -2,7 +2,7 @@ package advanced;
 
 import java.util.ArrayList;
 
-public class C10_ConvertArrayToArrayList {
+public class CC10_ConvertArrayToArrayList {
 
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {

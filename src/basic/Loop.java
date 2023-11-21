@@ -13,11 +13,16 @@ public class Loop {
 		 }*/
 	
 		int i=1;
-					
-		while(i<=10)
-		{
+		do				
+	   {
 		System.out.println("The value of is "+i);
 		i++; //i=i+1, i=1+1, i=2
+		}while(i<=10);
+		
+		for(i=0;i<6;i++) {
+			System.out.println("aishwarya"+i);
 		}
+		
+		
 	}
 }

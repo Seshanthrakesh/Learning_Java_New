@@ -20,7 +20,7 @@ public class C6_HashMap {
 		HashMap hm2= new HashMap(100);
 
 		//Mentioning the memory and the load factor
-		HashMap hm3= new HashMap(100,(float).90);
+		//HashMap hm3= new HashMap(100,(float).90);
 
 		//HashMap doesn't maintain order
         

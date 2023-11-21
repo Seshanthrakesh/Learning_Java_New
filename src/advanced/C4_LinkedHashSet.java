@@ -1,7 +1,7 @@
 package advanced;
 import java.util.LinkedHashSet;
 public class C4_LinkedHashSet {
-	@SuppressWarnings({ "rawtypes", "unchecked" })//
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {
 		
 		

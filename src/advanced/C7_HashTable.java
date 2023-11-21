@@ -11,11 +11,11 @@ public class C7_HashTable {
 
 		Hashtable<Object,Object> ht1= new Hashtable<Object,Object>();
 
-		Hashtable<Integer, String> ht2= new Hashtable<Integer,String>();
+		//Hashtable<Integer, String> ht2= new Hashtable<Integer,String>();
 
-		Hashtable ht3= new Hashtable(100);
+		//Hashtable ht3= new Hashtable(100);
 
-		Hashtable hs4= new Hashtable(100,(float)0.90);
+		//Hashtable hs4= new Hashtable(100,(float)0.90);
 
 
 		//initial capacity is 11 and fill ratio of 0.75
@@ -27,12 +27,12 @@ public class C7_HashTable {
 		ht1.put(105, 2000);
 		//ht1.put(null, 200); //null key is not allowed
 
-		System.out.println("Default hashtable"+ht1);
+		System.out.println("Default hashtable : "+ht1);
 
-		Set s= ht1.entrySet();
+		Set<?> s= ht1.entrySet();
 
 		//iterator
-		Iterator itr= s.iterator();
+		Iterator<?> itr= s.iterator();
 
 		while(itr.hasNext())
 		{

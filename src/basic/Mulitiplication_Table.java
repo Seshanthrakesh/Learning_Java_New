@@ -6,10 +6,10 @@ public class Mulitiplication_Table {
 	//System.out.println("Enter a number for multiplication: ");
 		System.out.println(" multiplication table ");
 		System.out.println(" ---------------------- ");
-		int table=5;
+		int table=6;
 		for (int i=1;i<=10;i++)
 		{			
-			System.out.println(i+"*"+table+"="+i*table);
+			System.out.println(i + "*" + table + "=" + i*table);
 		}
 		
 	}

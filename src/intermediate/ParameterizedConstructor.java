@@ -10,7 +10,7 @@ public class ParameterizedConstructor {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		ParameterizedConstructor obj =new ParameterizedConstructor(25,"Rakesh");
 		ParameterizedConstructor obj1 =new ParameterizedConstructor(24,"Aby");
 

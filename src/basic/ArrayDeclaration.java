@@ -8,9 +8,8 @@ public class ArrayDeclaration {
 		int[] num1; //Array declaration
 		num1= new int[5]; //Array initialization
 		
-		int[] num2= new int[5]; //will store 5 integer values
-		
-		num2[0] = 10;
+		int [] num2= new int[5]; //will store 5 integer values
+		num2[0]=10;
 		num2[1]=20;
 		num2[2]=30;
 		num2[3]=40;

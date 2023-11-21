@@ -1,9 +1,7 @@
 package basic;
 
 public class Arithmetic_operator {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int a = 10;//a,b,add,sub,mul,div are the integer datatype
 		int b = 20;
 		int add,sub,mul,div,mod;

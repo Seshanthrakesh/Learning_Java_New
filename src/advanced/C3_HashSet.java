@@ -7,8 +7,7 @@ public class C3_HashSet {
 
 	@SuppressWarnings({ "rawtypes", "unused", "unchecked" })
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		//first way
 		HashSet hs = new HashSet();
 

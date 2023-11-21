@@ -11,8 +11,8 @@ public class This_KeywordEx2{
 
 		Employee1(String empName,int empId)
 		{
-			empName= empName;//this
-			empId=empId;//this
+			//empName= empName;//this
+			//empId=empId;//this
 		}
 
 		public void display()

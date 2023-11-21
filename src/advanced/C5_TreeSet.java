@@ -14,6 +14,8 @@ public class C5_TreeSet {
 			ts.add(10);
 			ts.add(2);
 			ts.add(50);
+			ts.add(2);//duplicate is not allowed in set
+			
 			
 			System.out.println("Treeset for Homogenous data-->"+ts);
 

@@ -8,7 +8,7 @@ class HDFC1 implements RBI1
 
 	@Override
 	public void interest() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("The rate of interest is 10");
 	}
 }

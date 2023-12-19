@@ -1,4 +1,4 @@
-package interviewprograms;
+package StarPattern_Prgm_java;
 
 public class Decreasing_starpattern {
 	//increasing pyramid star pattern

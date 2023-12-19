@@ -33,8 +33,8 @@ public class EncapsulationEx {
 		emp.setEmployeeName("Arun");
 		emp.setEmployeeAge(30);
 		
-		System.out.println("The name of the employee is "+emp.getEmployeeName());
-		System.out.println("The age of the employee is "+emp.getEmployeeAge());
+		System.out.println(" Employee Name : "+emp.getEmployeeName());
+		System.out.println(" Employee Age : "+emp.getEmployeeAge());
 		
 	}
 

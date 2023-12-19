@@ -1,6 +1,6 @@
-package interviewprograms;
+package StarPattern_Prgm_java;
 
-public class square_starpattern {
+public class squareHollow_starpattern {
 	//increasing pyramid star pattern
 	public static void main(String[] args) {
 		int n=10;

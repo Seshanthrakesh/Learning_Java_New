@@ -30,7 +30,7 @@ public class InterfaceEx1 implements BikeDetails {
 
 	@Override
 	public void accelerate() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("Bike is accelerating");
 		
 	}

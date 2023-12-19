@@ -21,7 +21,7 @@ class Arithmetic1
 public class MethodOverLoadingEx1{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Arithmetic1 obj = new Arithmetic1();
 		obj.add(6, 7);
 		obj.add(7.5,7.5);

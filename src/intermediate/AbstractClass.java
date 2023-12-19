@@ -33,7 +33,7 @@ public class AbstractClass extends BikeDetails2 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		AbstractClass obj = new AbstractClass();
 		obj.bikeDetails();
 		obj.displayData();

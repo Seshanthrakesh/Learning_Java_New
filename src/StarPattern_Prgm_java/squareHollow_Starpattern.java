@@ -1,6 +1,6 @@
 package StarPattern_Prgm_java;
 
-public class squareHollow_starpattern {
+public class squareHollow_Starpattern {
 	//increasing pyramid star pattern
 	public static void main(String[] args) {
 		int n=10;

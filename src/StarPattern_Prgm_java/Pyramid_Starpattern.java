@@ -1,9 +1,7 @@
 package StarPattern_Prgm_java;
 
-public class Pyramid_Star_pattern {
+public class Pyramid_Starpattern {
 
-	
-	 
 	public static void main(String[] args) {
 		int i, j, row = 6;       
 		//Outer loop work for rows  

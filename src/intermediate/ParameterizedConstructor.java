@@ -13,7 +13,7 @@ public class ParameterizedConstructor {
 		
 		ParameterizedConstructor obj =new ParameterizedConstructor(25,"Rakesh");
 		ParameterizedConstructor obj1 =new ParameterizedConstructor(24,"Aby");
-
+		
 	}
 
 }

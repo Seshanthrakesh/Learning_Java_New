@@ -1,6 +1,6 @@
 package StarPattern_Prgm_java;
 
-public class K_ShapeStar_pattern {
+public class K_Shape_Starpattern {
 
 	//	****  
 	//	***  
